@@ -1,2 +1,2 @@
-# SENG-265
-This is a collection of my projects from a second year software engineering class on which I received 100%
+# SENG-265 - Assignment 3
+
